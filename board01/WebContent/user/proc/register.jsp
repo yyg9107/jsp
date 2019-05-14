@@ -20,8 +20,8 @@
 	String regip = request.getRemoteAddr();
 
 	
-	   final String HOST = "jdbc:mysql://192.168.0.161:3306/lsj";
-	   final String USER = "lsj";
+	   final String HOST = "jdbc:mysql://192.168.0.161:3306/yyg";
+	   final String USER = "yyg";
 	   final String PASS = "1234";
 	   
 	   Connection conn = null;
